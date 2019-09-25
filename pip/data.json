@@ -18,8 +18,8 @@
           {
             "id": 4,
             "name": "pip4",
-            "width": 100,
-            "height": 100,
+            "width": 1699,
+            "height": 1203,
             "placeHolderColor": "#fff",
             "zip": "https://raw.githubusercontent.com/appads/Pip/master/pip/data/pip4.zip",
             "thumb": "https://raw.githubusercontent.com/appads/Pip/master/pip/data/pip4Thumb.webp",
