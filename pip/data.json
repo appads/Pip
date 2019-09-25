@@ -1,18 +1,20 @@
 {
   "data": {
-    "category": {
-      "name": "category1",
-      "data": [
-        {
-          "id": 0,
-          "name": "pip1",
-          "zip": "www.google.com",
-          "thumb": "www.google.com",
-          "ts": 1569382653,
-          "isPremium": true
-        }
-      ]
-    }
+    "category": [
+      {
+        "name": "category1",
+        "data": [
+          {
+            "id": 0,
+            "name": "pip1",
+            "zip": "www.google.com",
+            "thumb": "www.google.com",
+            "ts": 1569382653,
+            "isPremium": true
+          }
+        ]
+      }
+    ]
   },
   "status": 1
 }
